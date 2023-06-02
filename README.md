@@ -1,11 +1,7 @@
-### Hi there 👋, I'm Juliana
 
 <img src="https://komarev.com/ghpvc/?username=julianacurtyf&style=flat-square&color=blue" alt=""/>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJmNTFmYzNhMDVmZmY2NWRiOWRjNzM2YTdhNzI4NGQ5MjI5OTkyMCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif" width="300"/>
-</div>
-
+### Hi there 👋, I'm Juliana
 - 📍  Based in Munich, Germany.
 - 🔭 I’m currently working at Microsoft as a Support Engineer on Azure Core, IaaS Virtual Machines team.
 - 👩‍🎓 I’m currently finishing a Master's degree on Biomedical Engineering at University of Coimbra.

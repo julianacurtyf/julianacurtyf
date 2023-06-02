@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Juliana
 
 <img src="https://komarev.com/ghpvc/?username=julianacurtyf&style=flat-square&color=blue" alt=""/>
 
@@ -6,20 +6,16 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJmNTFmYzNhMDVmZmY2NWRiOWRjNzM2YTdhNzI4NGQ5MjI5OTkyMCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif" width="300"/>
 </div>
 
----
-### 👋 Hi there, I'm Beatriz :
-
-
-- 📍  Based in Portugal.
+- 📍  Based in Munich, Germany.
 - 🔭 I’m currently working at Microsoft as a Support Engineer on Azure Core, IaaS Virtual Machines team.
 - 👩‍🎓 I’m currently finishing a Master's degree on Biomedical Engineering at University of Coimbra.
 - 🎓 My projects on GitHub currently come from my academic journey.
 - 🎯 In tech, I'm interested on Assistive Technology, Artificial Inteligence and project development.
 - ⚡ Fun fact: I've bungee jumped the same amount of times as the quantity of repositories I have on GitHub 😁
-- 📥 You can reach me on <a href="https://www.linkedin.com/in/beatriz-negromonte/">
+- 📥 You can reach me on <a href="https://www.linkedin.com/in/juliana-curty/">
     <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge" width="70" height="20"/>
   </a>
-  or at negromontebs@gmail.com
+  or at julianacurtyf@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

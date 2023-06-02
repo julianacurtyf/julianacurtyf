@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=blackmountainb&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=julianacurtyf&style=flat-square&color=blue" alt=""/>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJmNTFmYzNhMDVmZmY2NWRiOWRjNzM2YTdhNzI4NGQ5MjI5OTkyMCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif" width="300"/>

@@ -3,12 +3,11 @@
 
 ### Hi there 👋, I'm Juliana
 - 📍  Based in Munich, Germany.
-- 🔭 I’m currently working at Microsoft as a Support Engineer on Azure Core, IaaS Virtual Machines team.
-- 👩‍🎓 I’m currently finishing a Master's degree on Biomedical Engineering at University of Coimbra.
-- 🎓 My projects on GitHub currently come from my academic journey.
-- 🎯 In tech, I'm interested on Assistive Technology, Artificial Inteligence and project development.
-- ⚡ Fun fact: I've bungee jumped the same amount of times as the quantity of repositories I have on GitHub 😁
-- 📥 You can reach me on <a href="https://www.linkedin.com/in/juliana-curty/">
+- 🔭 I’m working at BMW as a Data Analyst Intern on the Passive Safety team.
+- 👩‍🎓 I’m a biomedical engineer from University of Coimbra.
+- 🎓 My projects on GitHub come from personal projects and my academic journey.
+- 🌱 I’m currently learning how the develop mobile apps using Flutter.
+- 📫 You can reach me on <a href="https://www.linkedin.com/in/juliana-curty/">
     <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge" width="70" height="20"/>
   </a>
   or at julianacurtyf@gmail.com
@@ -27,13 +26,6 @@
 
 </div>
   
-<!--
-**blackmountainb/blackmountainb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h2 align="center"> Hi there, I'm Beatriz </h1>
-<div align="center" id = "badges">
-  <a href="https://www.linkedin.com/in/beatriz-negromonte/">
-    <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge"/>
-  </a>
   
  </div>  
 

@@ -12,7 +12,10 @@
   </a>
   or at julianacurtyf@gmail.com
 ---
+ </div>  
 
+<!--
+**julianacurtyf/julianacurtyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
@@ -25,13 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 
 </div>
-  
-  
- </div>  
-
-<!--
-**julianacurtyf/julianacurtyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

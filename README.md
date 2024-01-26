@@ -3,7 +3,7 @@
 
 ### Hi there 👋, I'm Juliana
 - 📍  Based in Munich, Germany.
-- 🔭 I’m working at BMW as a Data Analyst Intern on the Passive Safety team.
+- 🔭 I’m working at BMW as a Data Analyst on the Passive Safety team.
 - 👩‍🎓 I’m a biomedical engineer from University of Coimbra.
 - 🎓 My projects on GitHub come from personal projects and my academic journey.
 - 🌱 I’m currently learning how the develop mobile apps using Flutter.
